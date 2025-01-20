@@ -1,0 +1,24 @@
+﻿<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.companyname.autostartapp">
+
+	<!-- Permissions nécessaires -->
+	<uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+	<uses-permission android:name="android.permission.INTERNET" />
+
+	<application
+        android:allowBackup="true"
+        android:label="AutoStartApp"
+        android:theme="@style/Maui.SplashTheme">
+
+		<!-- Receiver pour démarrer l'application après redémarrage -->
+		<receiver
+            android:name=".Platforms.Android.BootReceiver"
+            android:enabled="true"
+            android:exported="true">
+			<intent-filter>
+				<category android:name="android.intent.category.DEFAULT" />
+			</intent-filter>
+		</receiver>
+
+	</application>
+</manifest>
