@@ -4,7 +4,7 @@
         <name>MauiApp1ATM</name>
     </assembly>
     <members>
-        <member name="T:MauiApp1ATM.Resource">
+        <member name="T:AutoStartApp.Resource">
             <summary>
             Android Resource Designer class.
             Exposes the Android Resource designer assembly into the project Namespace.
