@@ -254,6 +254,7 @@ C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\bin\Debug\net9.0-ios\iossimu
 C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.Maui.Controls.HotReload.Forms.dll
 C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
 C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\bin\Debug\net9.0-ios\iossimulator-x64\Microsoft.VisualStudio.DesignTools.TapContract.dll
+C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\obj\Debug\net9.0-ios\iossimulator-x64\build-signature\signature
 C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\obj\Debug\net9.0-ios\iossimulator-x64\mauiimage.inputs
 C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\obj\Debug\net9.0-ios\iossimulator-x64\mauifont.inputs
 C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\obj\Debug\net9.0-ios\iossimulator-x64\mauisplash.inputs
@@ -303,6 +304,7 @@ C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\obj\Debug\net9.0-ios\iossimu
 C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\obj\Debug\net9.0-ios\iossimulator-x64\MauiApp1ATM.AssemblyInfoInputs.cache
 C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\obj\Debug\net9.0-ios\iossimulator-x64\MauiApp1ATM.AssemblyInfo.cs
 C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\obj\Debug\net9.0-ios\iossimulator-x64\MauiApp1ATM.csproj.CoreCompileInputs.cache
+C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\obj\Debug\net9.0-ios\iossimulator-x64\MauiApp1ATM.sourcelink.json
 C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\obj\Debug\net9.0-ios\iossimulator-x64\XamlC.stamp
 C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\obj\Debug\net9.0-ios\iossimulator-x64\MauiApp1.F2B4BA0C.Up2Date
 C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\obj\Debug\net9.0-ios\iossimulator-x64\MauiApp1ATM.dll

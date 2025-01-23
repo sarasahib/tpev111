@@ -1,24 +1,28 @@
 ﻿<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.companyname.autostartapp">
+    package="com.companyname.mauiapp1atm">
+    
+    <!-- Permissions requises -->
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
 
-	<!-- Permissions nécessaires -->
-	<uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-	<uses-permission android:name="android.permission.INTERNET" />
-
-	<application
+    <application
         android:allowBackup="true"
-        android:label="AutoStartApp"
+        android:label="MauiApp1ATM"
         android:theme="@style/Maui.SplashTheme">
-
-		<!-- Receiver pour démarrer l'application après redémarrage -->
-		<receiver
+        
+        <!-- Configuration du BootReceiver -->
+        <receiver
             android:name=".Platforms.Android.BootReceiver"
             android:enabled="true"
-            android:exported="true">
-			<intent-filter>
-				<category android:name="android.intent.category.DEFAULT" />
-			</intent-filter>
-		</receiver>
-
-	</application>
+            android:exported="true"
+            android:directBootAware="true">
+			
+			
+				<intent-filter>
+					<category android:name="android.intent.category.DEFAULT" />
+				</intent-filter>          
+        </receiver>
+        
+    </application>
 </manifest>

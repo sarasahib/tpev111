@@ -406,7 +406,7 @@ target triple = "aarch64-unknown-linux-android21"
 		ptr @__compressedAssemblyData_76; uint8_t* data
 	}, ; 76: Xamarin.KotlinX.Serialization.Core.Jvm
 	%struct.CompressedAssemblyDescriptor {
-		i32 419328, ; uint32_t uncompressed_file_size
+		i32 425984, ; uint32_t uncompressed_file_size
 		i1 false, ; bool loaded
 		ptr @__compressedAssemblyData_77; uint8_t* data
 	}, ; 77: MauiApp1ATM
@@ -606,7 +606,7 @@ target triple = "aarch64-unknown-linux-android21"
 		ptr @__compressedAssemblyData_116; uint8_t* data
 	}, ; 116: Mono.Android.Runtime
 	%struct.CompressedAssemblyDescriptor {
-		i32 1806848, ; uint32_t uncompressed_file_size
+		i32 1811968, ; uint32_t uncompressed_file_size
 		i1 false, ; bool loaded
 		ptr @__compressedAssemblyData_117; uint8_t* data
 	} ; 117: Mono.Android
@@ -689,7 +689,7 @@ target triple = "aarch64-unknown-linux-android21"
 @__compressedAssemblyData_74 = internal dso_local global [85504 x i8] zeroinitializer, align 1
 @__compressedAssemblyData_75 = internal dso_local global [17408 x i8] zeroinitializer, align 1
 @__compressedAssemblyData_76 = internal dso_local global [88576 x i8] zeroinitializer, align 1
-@__compressedAssemblyData_77 = internal dso_local global [419328 x i8] zeroinitializer, align 1
+@__compressedAssemblyData_77 = internal dso_local global [425984 x i8] zeroinitializer, align 1
 @__compressedAssemblyData_78 = internal dso_local global [24064 x i8] zeroinitializer, align 1
 @__compressedAssemblyData_79 = internal dso_local global [14848 x i8] zeroinitializer, align 1
 @__compressedAssemblyData_80 = internal dso_local global [9216 x i8] zeroinitializer, align 1
@@ -729,7 +729,7 @@ target triple = "aarch64-unknown-linux-android21"
 @__compressedAssemblyData_114 = internal dso_local global [1861632 x i8] zeroinitializer, align 1
 @__compressedAssemblyData_115 = internal dso_local global [166912 x i8] zeroinitializer, align 1
 @__compressedAssemblyData_116 = internal dso_local global [18968 x i8] zeroinitializer, align 1
-@__compressedAssemblyData_117 = internal dso_local global [1806848 x i8] zeroinitializer, align 1
+@__compressedAssemblyData_117 = internal dso_local global [1811968 x i8] zeroinitializer, align 1
 
 ; Metadata
 !llvm.module.flags = !{!0, !1, !7, !8, !9, !10}

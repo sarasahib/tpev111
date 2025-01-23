@@ -1,0 +1,4 @@
+C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\bin\Release\net9.0-android\publish\com.companyname.mauiapp1atm-Signed.aab
+C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\bin\Release\net9.0-android\publish\com.companyname.mauiapp1atm.aab
+C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\bin\Release\net9.0-android\publish\com.companyname.mauiapp1atm-Signed.apk
+C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\bin\Release\net9.0-android\publish\_Microsoft.Android.Resource.Designer.dll

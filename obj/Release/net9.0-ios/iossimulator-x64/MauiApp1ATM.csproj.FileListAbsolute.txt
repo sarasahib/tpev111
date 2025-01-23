@@ -300,6 +300,7 @@ C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\obj\Release\net9.0-ios\iossi
 C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\obj\Release\net9.0-ios\iossimulator-x64\MauiApp1ATM.AssemblyInfoInputs.cache
 C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\obj\Release\net9.0-ios\iossimulator-x64\MauiApp1ATM.AssemblyInfo.cs
 C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\obj\Release\net9.0-ios\iossimulator-x64\MauiApp1ATM.csproj.CoreCompileInputs.cache
+C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\obj\Release\net9.0-ios\iossimulator-x64\MauiApp1ATM.sourcelink.json
 C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\obj\Release\net9.0-ios\iossimulator-x64\XamlC.stamp
 C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\obj\Release\net9.0-ios\iossimulator-x64\MauiApp1.F2B4BA0C.Up2Date
 C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\obj\Release\net9.0-ios\iossimulator-x64\MauiApp1ATM.dll

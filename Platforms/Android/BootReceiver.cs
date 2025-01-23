@@ -1,9 +1,8 @@
 ﻿using Android.App;
 using Android.Content;
-using Android.OS;
 using Android.Util;
 
-namespace AutoStartApp.Platforms.Android
+namespace NetMauiStartOnBootPoC.Platforms.Android
 {
     [BroadcastReceiver(
         Name = "com.companyname.netmauistartonbootpoc.BootReceiver",
@@ -15,11 +14,27 @@ namespace AutoStartApp.Platforms.Android
     {
         public override void OnReceive(Context context, Intent intent)
         {
-            if (intent?.Action == Intent.ActionBootCompleted)
+            // Vérifier si l'intention est correcte
+            if (intent.Action != Intent.ActionBootCompleted)
             {
-                var startIntent = new Intent(context, typeof(MainActivity));
-                startIntent.AddFlags(ActivityFlags.NewTask);
-                context.StartActivity(startIntent);
+                Log.Warn("BootReceiver", "Action inattendue reçue.");
+                return;
+            }
+
+            Log.Debug("BootReceiver", "Événement BOOT_COMPLETED détecté.");
+
+            // Lancer MainActivity après redémarrage
+            try
+            {
+                var activityIntent = new Intent(context, typeof(MainActivity));
+                activityIntent.AddFlags(ActivityFlags.NewTask);
+                context.StartActivity(activityIntent);
+
+                Log.Debug("BootReceiver", "MainActivity lancée avec succès.");
+            }
+            catch (System.Exception ex)
+            {
+                Log.Error("BootReceiver", $"Erreur lors du lancement de MainActivity : {ex.Message}");
             }
         }
     }

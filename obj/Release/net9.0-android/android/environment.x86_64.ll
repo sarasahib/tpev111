@@ -115,9 +115,9 @@ target triple = "x86_64-unknown-linux-android21"
 	i32 28, ; uint32_t number_of_dso_cache_entries
 	i32 756, ; uint32_t number_of_aot_cache_entries
 	i32 91, ; uint32_t number_of_shared_libraries
-	i32 u0x020002bd, ; uint32_t android_runtime_jnienv_class_token
-	i32 u0x06001a67, ; uint32_t jnienv_initialize_method_token
-	i32 u0x06001a66, ; uint32_t jnienv_registerjninatives_method_token
+	i32 u0x020002bf, ; uint32_t android_runtime_jnienv_class_token
+	i32 u0x06001a75, ; uint32_t jnienv_initialize_method_token
+	i32 u0x06001a74, ; uint32_t jnienv_registerjninatives_method_token
 	i32 0, ; uint32_t jni_remapping_replacement_type_count
 	i32 0, ; uint32_t jni_remapping_replacement_method_index_entry_count
 	i32 u0x00000000, ; uint32_t mono_components_mask
@@ -5644,7 +5644,7 @@ target triple = "x86_64-unknown-linux-android21"
 @.env.3 = private unnamed_addr constant [42 x i8] c"Xamarin.Android.Net.AndroidMessageHandler\00", align 16
 
 ;ApplicationConfig
-@.ApplicationConfig.0_android_package_name = private unnamed_addr constant [29 x i8] c"com.companyname.autostartapp\00", align 16
+@.ApplicationConfig.0_android_package_name = private unnamed_addr constant [28 x i8] c"com.companyname.mauiapp1atm\00", align 16
 
 ;DSOCacheEntry
 @.DSOCacheEntry.0_name = private unnamed_addr constant [34 x i8] c"libSystem.Globalization.Native.so\00", align 16

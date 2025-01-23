@@ -274,3 +274,4 @@ C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\obj\Release\net9.0-maccataly
 C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\obj\Release\net9.0-maccatalyst\maccatalyst-arm64\MauiApp1ATM.pdb
 C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\obj\Release\net9.0-maccatalyst\maccatalyst-arm64\MauiApp1ATM.genruntimeconfig.cache
 C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\obj\Release\net9.0-maccatalyst\maccatalyst-arm64\ref\MauiApp1ATM.dll
+C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\obj\Release\net9.0-maccatalyst\maccatalyst-arm64\MauiApp1ATM.sourcelink.json

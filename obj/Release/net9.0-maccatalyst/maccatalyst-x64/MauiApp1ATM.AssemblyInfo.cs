@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MauiApp1ATM")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+32b065c2c2c1d55ee1f124a474252ee9e2dd1c72")]
 [assembly: System.Reflection.AssemblyProductAttribute("MauiApp1ATM")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MauiApp1ATM")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

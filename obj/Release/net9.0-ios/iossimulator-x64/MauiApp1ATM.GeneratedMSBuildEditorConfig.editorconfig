@@ -11,7 +11,7 @@ build_property.InvariantGlobalization = false
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = MauiApp1ATM
+build_property.RootNamespace = AutoStartApp
 build_property.ProjectDir = C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
@@ -20,30 +20,30 @@ build_property.EnableCodeStyleSeverity =
 
 [C:/Users/saras/source/repos/MauiApp1ATM/MauiApp1ATM/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1ATM.App.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AutoStartApp.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
 [C:/Users/saras/source/repos/MauiApp1ATM/MauiApp1ATM/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1ATM.AppShell.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AutoStartApp.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
 [C:/Users/saras/source/repos/MauiApp1ATM/MauiApp1ATM/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1ATM.MainPage.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AutoStartApp.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
 [C:/Users/saras/source/repos/MauiApp1ATM/MauiApp1ATM/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1ATM.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AutoStartApp.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
 [C:/Users/saras/source/repos/MauiApp1ATM/MauiApp1ATM/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
-build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1ATM.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.ManifestResourceName = AutoStartApp.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

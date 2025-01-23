@@ -292,6 +292,7 @@ C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\obj\Debug\net9.0-maccatalyst
 C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\MauiApp1ATM.AssemblyInfoInputs.cache
 C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\MauiApp1ATM.AssemblyInfo.cs
 C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\MauiApp1ATM.csproj.CoreCompileInputs.cache
+C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\MauiApp1ATM.sourcelink.json
 C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\XamlC.stamp
 C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\MauiApp1.F2B4BA0C.Up2Date
 C:\Users\saras\source\repos\MauiApp1ATM\MauiApp1ATM\obj\Debug\net9.0-maccatalyst\maccatalyst-x64\MauiApp1ATM.dll
