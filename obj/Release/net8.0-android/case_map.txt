@@ -1,3 +1,0 @@
-images\atmm;images\atmm
-images\dotnet_bot;images\dotnet_bot
-raw\aboutassets;raw\AboutAssets
